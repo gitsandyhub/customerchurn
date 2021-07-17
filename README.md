@@ -1,2 +1,2 @@
 # customerchurn
-Customer Churn Analysis
+Customer Churn Analysis and Visualization
